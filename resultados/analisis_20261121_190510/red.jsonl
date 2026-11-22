@@ -1,0 +1,172 @@
+{"event": "request", "url": "http://aqp.redsurplus.com/", "method": "GET", "resource_type": "document"}
+{"event": "response", "url": "http://aqp.redsurplus.com/", "method": "GET", "resource_type": "document", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Styles/Movil.css?d=20261030-2", "method": "GET", "resource_type": "stylesheet"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Styles/Movil.css?d=20261030-2", "method": "GET", "resource_type": "stylesheet", "status": 200, "content_type": "text/css"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/jquery-1.4.1.min.js", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/jquery-1.4.1.min.js", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/_main.js?d=20250622", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/_main.js?d=20250622", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/_default.js?d=20161033", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/_default.js?d=20161033", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/back2.jpg", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/back2.jpg", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/jpeg"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/logo.png", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/logo.png", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/png"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Default.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Sale.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/down.png", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/down.png", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/png"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/cellS.jpg", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/cellS.jpg", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/jpeg"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Default.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Sale.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Processes/Payments.aspx", "method": "GET", "resource_type": "document"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Processes/Payments.aspx", "method": "GET", "resource_type": "document", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Styles/Movil.css?d=20261030-2", "method": "GET", "resource_type": "stylesheet"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Styles/Movil.css?d=20261030-2", "method": "GET", "resource_type": "stylesheet", "status": 200, "content_type": "text/css"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/jquery-1.4.1.min.js", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/jquery-1.4.1.min.js", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/_main.js?d=20250622", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/_main.js?d=20250622", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/_sales.js?d=20250430", "method": "GET", "resource_type": "script"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/_payments.js?d=99", "method": "GET", "resource_type": "script"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/jquery-printArea.js", "method": "GET", "resource_type": "script"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Styles/SmallBox.css?d=4", "method": "GET", "resource_type": "stylesheet"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Styles/SmallBox.css?d=4", "method": "GET", "resource_type": "stylesheet", "status": 200, "content_type": "text/css"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/_payments.js?d=99", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/jquery-printArea.js", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/_sales.js?d=20250430", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/back2.jpg", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/back2.jpg", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/jpeg"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/logo.png", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/logo.png", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/png"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/down.png", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/down.png", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/png"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/cellS.jpg", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/cellS.jpg", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/jpeg"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Sale.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Product.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Service.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Person.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Service.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Service.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Sale.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Service.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Product.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Person.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Rpt/Sales.aspx", "method": "GET", "resource_type": "document"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Rpt/Sales.aspx", "method": "GET", "resource_type": "document", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Styles/Movil.css?d=20261030-2", "method": "GET", "resource_type": "stylesheet"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Styles/Movil.css?d=20261030-2", "method": "GET", "resource_type": "stylesheet", "status": 200, "content_type": "text/css"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/jquery-1.4.1.min.js", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/jquery-1.4.1.min.js", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/_main.js?d=20250622", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/_main.js?d=20250622", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "request", "url": "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.15/themes/base/jquery-ui.css", "method": "GET", "resource_type": "stylesheet"}
+{"event": "request", "url": "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.min.js", "method": "GET", "resource_type": "script"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/Reports/_sales.js?d=20261030-4", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/Reports/_sales.js?d=20261030-4", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "response", "url": "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.15/themes/base/jquery-ui.css", "method": "GET", "resource_type": "stylesheet", "status": 200, "content_type": "text/css; charset=UTF-8"}
+{"event": "response", "url": "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.min.js", "method": "GET", "resource_type": "script", "status": 200, "content_type": "text/javascript; charset=UTF-8"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/back2.jpg", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/back2.jpg", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/jpeg"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/logo.png", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/logo.png", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/png"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/search.jpg", "method": "GET", "resource_type": "image"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/down.png", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/down.png", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/png"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/cellS.jpg", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/cellS.jpg", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/jpeg"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Pack.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Users.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Province.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Place.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Department.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Province.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Users.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/search.jpg", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/jpeg"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Department.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Place.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Pack.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Rpt/Sales.aspx?opc=square", "method": "GET", "resource_type": "document"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Rpt/Sales.aspx?opc=square", "method": "GET", "resource_type": "document", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Styles/Movil.css?d=20261030-2", "method": "GET", "resource_type": "stylesheet"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Styles/Movil.css?d=20261030-2", "method": "GET", "resource_type": "stylesheet", "status": 200, "content_type": "text/css"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/jquery-1.4.1.min.js", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/jquery-1.4.1.min.js", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/_main.js?d=20250622", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/_main.js?d=20250622", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "request", "url": "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.15/themes/base/jquery-ui.css", "method": "GET", "resource_type": "stylesheet"}
+{"event": "response", "url": "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.15/themes/base/jquery-ui.css", "method": "GET", "resource_type": "stylesheet", "status": 200, "content_type": "text/css; charset=UTF-8"}
+{"event": "request", "url": "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.min.js", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.min.js", "method": "GET", "resource_type": "script", "status": 200, "content_type": "text/javascript; charset=UTF-8"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/Reports/_sales.js?d=20261030-4", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/Reports/_sales.js?d=20261030-4", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/back2.jpg", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/back2.jpg", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/jpeg"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/logo.png", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/logo.png", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/png"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/search.jpg", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/search.jpg", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/jpeg"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/down.png", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/down.png", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/png"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/cellS.jpg", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/cellS.jpg", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/jpeg"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Pack.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Users.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Province.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Place.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Department.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Place.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Province.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Pack.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Rpt/StockGrl.aspx", "method": "GET", "resource_type": "document"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Rpt/StockGrl.aspx", "method": "GET", "resource_type": "document", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Styles/Movil.css?d=20261030-2", "method": "GET", "resource_type": "stylesheet"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Styles/Movil.css?d=20261030-2", "method": "GET", "resource_type": "stylesheet", "status": 200, "content_type": "text/css"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/jquery-1.4.1.min.js", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/jquery-1.4.1.min.js", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/_main.js?d=20250622", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/_main.js?d=20250622", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/Reports/_stock.js?d=20160823", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/Reports/_stock.js?d=20160823", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/back2.jpg", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/back2.jpg", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/jpeg"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/logo.png", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/logo.png", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/png"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/down.png", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/down.png", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/png"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/cellS.jpg", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/cellS.jpg", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/jpeg"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Place.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Place.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Department.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Department.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Place.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Place.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Bases/Models.aspx", "method": "GET", "resource_type": "document"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Bases/Models.aspx", "method": "GET", "resource_type": "document", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Styles/Movil.css?d=20261030-2", "method": "GET", "resource_type": "stylesheet"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Styles/Movil.css?d=20261030-2", "method": "GET", "resource_type": "stylesheet", "status": 200, "content_type": "text/css"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/jquery-1.4.1.min.js", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/jquery-1.4.1.min.js", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/_main.js?d=20250622", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/_main.js?d=20250622", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Scripts/_models.js?d=20261208", "method": "GET", "resource_type": "script"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Scripts/_models.js?d=20261208", "method": "GET", "resource_type": "script", "status": 200, "content_type": "application/javascript"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/back2.jpg", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/back2.jpg", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/jpeg"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/logo.png", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/logo.png", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/png"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/down.png", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/down.png", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/png"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/cellS.jpg", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/cellS.jpg", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/jpeg"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Type.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Marks.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Type.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Ajaxs/Model.aspx", "method": "POST", "resource_type": "xhr"}
+{"event": "request", "url": "http://aqp.redsurplus.com/Images/loader.gif", "method": "GET", "resource_type": "image"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Images/loader.gif", "method": "GET", "resource_type": "image", "status": 200, "content_type": "image/gif"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Model.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
+{"event": "response", "url": "http://aqp.redsurplus.com/Ajaxs/Marks.aspx", "method": "POST", "resource_type": "xhr", "status": 200, "content_type": "text/html; charset=utf-8"}
